@@ -36,5 +36,6 @@ public class Stringoperatoren {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
+        //hallo
     }
 }
